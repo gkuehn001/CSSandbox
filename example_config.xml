@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLConfiguration>
+  <StringParameter1>Default String</StringParameter1>
+  <!--Description appears as XML comment.-->
+  <IntParameter1>0</IntParameter1>
+</XMLConfiguration>
