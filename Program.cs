@@ -7,9 +7,10 @@ namespace CSSandbox
         static void Main(string[] args)
         {
             //RunTest("XMLConfiguration", TestXMLConfiguration);
-            RunTest("XMLSerializableDictionary", TestXMLSerializableDictionary);
+            //RunTest("XMLSerializableDictionary", TestXMLSerializableDictionary);
+            //Console.ReadLine();
 
-            Console.ReadLine();
+            //ConsoleSnake.Run();
         }
 
         static void RunTest(string name, Func<bool> f)

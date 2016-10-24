@@ -56,6 +56,7 @@
     <Folder Include=".git\" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleSnake.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="XMLConfiguration.cs" />
     <Compile Include="XMLSerializableDictionary.cs" />
